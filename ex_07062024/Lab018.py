@@ -16,3 +16,16 @@ dir = r"c: \noname\myfolder"
 
 print(dir)
 
+# Format of the string
+first_name = 'Harry'
+last_name = 'Potter'
+
+print(first_name + "" + last_name)
+print(first_name, last_name)
+
+print(f'Your first and last name is {first_name} {last_name}' )
+
+
+
+
+
