@@ -10,3 +10,5 @@ elif num2 > num1 and num2 > num3:
     print("Num2 is greater")
 else:
     print("Num3 is greater")
+
+    # ternary is only use for if else.
